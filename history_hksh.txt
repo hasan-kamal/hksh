@@ -1,0 +1,4 @@
+pwd
+help
+exit
+exit
