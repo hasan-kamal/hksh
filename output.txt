@@ -1,7 +1,0 @@
-2015039_Shell1_1.c
-2015039_Shell1_2.c
-2015039_Shell1_3.c
-2015039_Shell1_4.c
-a.out
-history_hksh.txt
-output.txt
